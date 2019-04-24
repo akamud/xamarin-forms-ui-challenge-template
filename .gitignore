@@ -405,5 +405,5 @@ ASALocalRun/
 .localhistory/
 
 # CAKE
-tools/*
-!tools/packages.config
+**/tools/*
+!**/tools/packages.config
