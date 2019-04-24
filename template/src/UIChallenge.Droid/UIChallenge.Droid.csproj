@@ -97,9 +97,9 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UIChallenge\UIChallenge.csproj">
+    <ProjectReference Include="..\UIChallenge.Core\UIChallenge.Core.csproj">
       <Project>{B95AEAC8-2752-4E8E-AD6F-229067FAD348}</Project>
-      <Name>UIChallenge</Name>
+      <Name>UIChallenge.Core</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
