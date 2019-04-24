@@ -13,11 +13,11 @@ Search for the [Template Creator](https://github.com/mrward/monodevelop-template
 
 3. After it is installed, open the Visual Studio for Mac preferences, search for **Template > Custom Folders**. Add the directory for the `xamarin-forms-ui-challenge`.
 
-![https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge/master/preferences.png](https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge/master/preferences.png)
+![https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/preferences.png](https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/preferences.png)
 
 4. Now it should come up when creating a new solution under **Multiplatform > App**:
 
-![https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge/master/new-solution.png](https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge/master/new-solution.png)
+![https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/new-solution.png](https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/new-solution.png)
 
 ## Running HotReload 🔥
 
