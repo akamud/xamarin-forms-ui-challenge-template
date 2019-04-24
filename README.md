@@ -11,7 +11,7 @@ You can just download the `template` folder and add everything to your solution,
 2. Download the MonoDevelop Template Creator Addin for Visual Studio for Mac  
 Search for the [Template Creator](https://github.com/mrward/monodevelop-template-creator-addin) addin in the Gallery.
 
-3. After it is installed, open the Visual Studio for Mac preferences, search for **Template > Custom Folders**. Add the directory for the `xamarin-forms-ui-challenge`.
+3. After it is installed, open the Visual Studio for Mac preferences, search for **Template > Custom Folders**. Add the directory for the `xamarin-forms-ui-challenge-template`.
 
 ![https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/preferences.png](https://raw.githubusercontent.com/akamud/xamarin-forms-ui-challenge-template/master/preferences.png)
 
