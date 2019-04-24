@@ -3,16 +3,16 @@
   "author": "Mahmoud Ali",
   "classifications": [],
   "description": "Creates a new Xamarin.Forms Project with HotReload for UI Challenges",
-  "name": "UIChallenge",
+  "name": "Xamarin.Forms UI Challenge",
   "defaultName": "UIChallenge",
-  "identity": "UIChallenge.CSharp",
-  "groupIdentity": "UIChallenge",
+  "identity": "XamarinForms.UIChallenge.CSharp",
+  "groupIdentity": "Xamarin.Forms.UIChallenge",
   "tags": {
     "language": "C#",
     "type": "project",
     "vsmac-category": "multiplat/app/forms"
   },
-  "shortName": "UIChallenge",
+  "shortName": "xfuichallenge",
   "sourceName": "UIChallenge",
   "guids": [
     "{B95AEAC8-2752-4E8E-AD6F-229067FAD348}",
@@ -32,13 +32,13 @@
   ],
   "primaryOutputs": [
     {
-      "path": "UIChallenge\\UIChallenge.csproj"
+      "path": "src\\UIChallenge.Core\\UIChallenge.Core.csproj"
     },
     {
-      "path": "UIChallenge.Android\\UIChallenge.Android.csproj"
+      "path": "src\\UIChallenge.Droid\\UIChallenge.Droid.csproj"
     },
     {
-      "path": "UIChallenge.iOS\\UIChallenge.iOS.csproj"
+      "path": "src\\UIChallenge.iOS\\UIChallenge.iOS.csproj"
     }
   ]
 }

@@ -26,9 +26,11 @@ namespace UIChallenge.iOS
             global::Xamarin.Forms.Forms.Init();
 
             var xfApplication = new App();
+//-:cnd:noEmit
 #if DEBUG
             HotReloader.Current.Start(xfApplication, 4291);
 #endif
+//+:cnd:noEmit
             LoadApplication(xfApplication);
             return base.FinishedLaunching(app, options);
         }

@@ -24,9 +24,11 @@ namespace UIChallenge.Droid
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
             var xfApplication = new App();
+//-:cnd:noEmit
 #if DEBUG
             HotReloader.Current.Start(xfApplication, 4290);
 #endif
+//+:cnd:noEmit
             LoadApplication(xfApplication);
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
